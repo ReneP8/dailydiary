@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DailyDiary</string>
+    <string name="addIconText">addIcon</string>
 </resources>
